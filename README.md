@@ -51,7 +51,6 @@
 * 🎬 Netflix Data Analysis
 * 📊 Excel Dashboard Projects
 
-👉 Check out my repositories to see my work!
 
 ---
 
