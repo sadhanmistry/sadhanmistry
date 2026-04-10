@@ -1,16 +1,83 @@
-## Hi there 👋
+# Hi there 👋, I'm Sadhan Mistry
 
-<!--
-**sadhanmistry/sadhanmistry** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** | 📊 Turning Data into Insights | 🧠 Lifelong Learner
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+* 🎯 Aspiring **Data Analyst**
+* 📊 Passionate about **Data Analysis, Visualization, and Insights**
+* 📚 Currently learning **Python, SQL, Excel, and Power BI**
+* 🔍 Interested in **Business Intelligence & Data-driven decision making**
+* 💡 Love solving problems using **data and analytics**
+* 🚀 Working on real-world **Data Analytics Projects**
+
+---
+
+## 🛠️ Skills & Tools
+
+### 📊 Data Analysis
+
+* Excel
+* SQL
+* Python (Pandas, NumPy)
+
+### 📈 Data Visualization
+
+* Power BI
+* Tableau
+* Matplotlib
+* Seaborn
+
+### 💻 Programming
+
+* Python
+* SQL
+
+### 🗄️ Databases
+
+* MySQL
+* PostgreSQL
+
+---
+
+## 📂 Projects
+
+### 📊 Data Analysis Projects
+
+* 📈 Sales Data Analysis
+* 🏪 Retail Data Analysis
+* 🎬 Netflix Data Analysis
+* 📊 Excel Dashboard Projects
+
+👉 Check out my repositories to see my work!
+
+---
+
+## 🌱 Currently Learning
+
+* Advanced SQL
+* Python for Data Analysis
+* Power BI Dashboards
+* Data Cleaning & Preprocessing
+
+---
+
+## 📫 Connect With Me
+
+* 💼 LinkedIn: https://www.linkedin.com/in/sadhanmistry/
+* 📧 Email: sadhanmistry.dev@gmail.com
+* 🧑‍💻 GitHub: https://github.com/sadhanmistry
+
+---
+
+## 📈 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+
+---
+
+⭐ **Thanks for visiting my profile!**
